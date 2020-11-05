@@ -6,4 +6,4 @@
 Data set:
 https://www.kaggle.com/juliansimon/weather_madrid_lemd_1997_2015.csv
 
-![GitHub Logo](/Capture.PNG)
+![GitHub Logo](/images/Capture.PNG)
