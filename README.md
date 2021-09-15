@@ -21,7 +21,6 @@ in the forecasting with use of smoothing technique. Our
 method outperforms other model in terms of MSE and
 MAE.
 
-
 Data set:
 https://www.kaggle.com/juliansimon/weather_madrid_lemd_1997_2015.csv
 
